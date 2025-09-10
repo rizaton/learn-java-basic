@@ -12,7 +12,7 @@ This project is built and managed with **IntelliJ IDEA**.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/learn-java-basic.git
+git clone https://github.com/rizaton/learn-java-basic.git
 cd learn-java-basic
 ```
 
