@@ -1,5 +1,7 @@
 # Learn Java Basic
 
+This repository is part of my **Java Learning**, focusing on **Java Basic**.
+
 A simple repository for learning and practicing the **fundamentals of Java programming**.  
 This project is built and managed with **IntelliJ IDEA**.  
 
@@ -35,6 +37,14 @@ This project will cover step by step:
 - Methods and Functions 
 - Arrays
 
+## 🚀 How to Use
+1. Clone this repo:
+```bash
+  git clone https://github.com/rizaton/learn-java-basic.git
+```
+1. Open the project in your favorite IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
+2. Run each example to explore concepts step by step.
+
 ## 🛠️ Project Structure
 ```graphql
 learn-java-basic/
@@ -44,8 +54,7 @@ learn-java-basic/
 │── .gitignore        # .gitignore file
 │── README.md         # Documentation
 ```
-## 🤝 Contributing
-1. Fork the repo. 
-2. Create a branch: git checkout -b feature/my-exercise. 
-3. Add exercises or fixes under src/ (or add new folders like exercises/). 
-4. Commit and push, then open a Pull Request.
+
+## 🙏 Acknowledgment
+This repository is inspired by my learning journey from the Udemy course *"[Pemrograman Java : Pemula sampai Mahir](https://www.udemy.com/course/pemrograman-java-pemula-sampai-mahir)"* by [Programmer Zaman Now](https://github.com/ProgrammerZamanNow).  
+I use Git & GitHub to document and track my learning progress.
